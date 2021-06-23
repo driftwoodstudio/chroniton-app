@@ -1,0 +1,59 @@
+/* Stock action strings */
+"Cancel" = "Cancelar";
+"Edit" = "Editar";
+"Done" = "OK";
+"OK" = "OK";
+
+/* Basic app domain nouns */
+"Event" = "Evento";
+"Events" = "Eventos";
+"Notes" = "Notas";
+"Category" = "Categoría";
+
+/* Category name prompt */
+"Category Name" = "Nombre de la Categoría";
+
+/* Action Sheet menu item */
+"menu-item-csv" = ".CSV archivo adjunto";
+"menu-item-plainText" = "Texto sin formato";
+
+/* Popup action menu title */
+"EmailEventsPopupTitle" = "Correo electrónico como...";
+
+/* Email field titles */
+"Last On" = "Fecha última";
+
+/* Email text */
+"email-subject-text" = "Lista de \"Chroniton\"";
+"email-subject" = "Chroniton, archivo de datos";
+"email-body" = "Archivo de datos adjunto\n";
+
+/* CSV ColumnTitles */
+"LastDate" = "FechaÚltima";
+"NextDate" = "FechaPróxima";
+
+/* Email field title */
+"Next On" = "Fecha próxima";
+
+/* Category name prompt */
+"Rename Category" = "Nuevo Nombre de Categoría";
+
+/* Action Sheet menu item */
+"Text in email" = "Texto en el correo";
+
+/* Email and CSV field title */
+"Title" = "Título";
+
+/* Shown when there is no selected event to edit */
+"no event caption" = "¡Seleccione un evento para mostrar!";
+
+/* Dialog box string */
+"delete-category-event-count" = "Categoría contiene %d eventos que se eliminarán.";
+"delete-nonempty-category-title" = "¿Eliminar categoría con eventos?";
+
+/* Interval strings */
+"today" = "Hoy";
+"yesterday" = "Ayer";
+"%@ days ago" = "Hace %@ días";
+"in %@ days" = "en %@ días";
+"tomorrow" = "mañana";

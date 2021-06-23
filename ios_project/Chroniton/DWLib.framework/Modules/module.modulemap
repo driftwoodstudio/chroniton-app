@@ -1,0 +1,11 @@
+framework module DWLib {
+  umbrella header "DWLib.h"
+
+  export *
+  module * { export * }
+}
+
+module DWLib.Swift {
+    header "DWLib-Swift.h"
+    requires objc
+}

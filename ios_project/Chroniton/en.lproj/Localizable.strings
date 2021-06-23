@@ -1,0 +1,59 @@
+/* Stock action strings */
+"Cancel" = "Cancel";
+"Edit" = "Edit";
+"Done" = "Done";
+"OK" = "OK";
+
+/* Basic app domain nouns */
+"Event" = "Event";
+"Events" = "Events";
+"Notes" = "Notes";
+"Category" = "Category";
+
+/* Category name prompt */
+"Category Name" = "Category Name";
+
+/* Action Sheet menu item */
+"menu-item-csv" = "CSV spreadsheet file attachment";
+"menu-item-plainText" = "Plain text in email";
+
+/* Popup action menu title */
+"EmailEventsPopupTitle" = "Email Events As...";
+
+/* Email field title */
+"Last On" = "Last On";
+
+/* Email text */
+"email-subject-text" = "List from Chroniton app";
+"email-subject" = "Chroniton app data file";
+"email-body" = "Data file attached\n";
+
+/* CSV ColumnTitles */
+"LastDate" = "LastDate";
+"NextDate" = "NextDate";
+
+/* Email field title */
+"Next On" = "Next On";
+
+/* Category name prompt */
+"Rename Category" = "Rename Category";
+
+/* Action Sheet menu item */
+"Text in email" = "Text in email";
+
+/* Email and CSV field title */
+"Title" = "Title";
+
+/* Shown when there is no selected event to edit */
+"no event caption" = "Select an event to show!";
+
+/* Dialog box string */
+"delete-category-event-count" = "Category contains %i events that will be removed.";
+"delete-nonempty-category-title" = "Delete category with events?";
+
+/* Interval strings */
+"today" = "Today";
+"yesterday" = "Yesterday";
+"%@ days ago" = "%@ days ago";
+"in %@ days" = "in %@ days";
+"tomorrow" = "tomorrow";

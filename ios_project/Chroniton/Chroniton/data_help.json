@@ -1,0 +1,56 @@
+[
+    {
+        "category": {
+            "name": "Help",
+        },
+        "events": [
+            {
+                "title": "Starting",
+                "notes": "To enter a new event, tap the menu button (at the bottom of the event list) then the \"plus\" button.\n\nTo delete an event, tap the \"Edit\" button, or swipe right-to-left on the event (in the event list).\n\nTo add, remove or reorder categories, tap the \"Categories\" button.",
+            },
+            {
+                "title": "About the color indicators",
+                "notes": "The markers show you events that need attention:\n\n- Blank: this event has no \"next due\" date\n- Green: this event has a \"next due\" date more than a week in the future\n- Yellow: this event has a \"next due\" date within the coming week\n- Red: this event has a \"next due\" date in the past",
+            },
+            {
+                "title": "Managing categories",
+                "notes": "You can add, remove and reorder your category list by tapping the \"Categories\" button to bring up the category list.\n\nWhen viewing the category list:\n\n- tap the \"Edit\" button to delete or reorder your categories\n\n- tap the menu button then the \"plus\" button to add a new category",
+            },
+            {
+                "title": "Reordering events",
+                "notes": "To reorder events, tap the \"Edit\" button.\n\nThen, tap and hold the reorder control for the event you want to move, and drag it to a new location.\n\nDragging an event into a different category will change the category for  the event.\n\n(The \"reorder control\" is the horizontal bars that appear to the right of the event when in Edit mode.)",
+            },
+            {
+                "title": "Deleting events",
+                "notes": "To delete an event you can \"swipe\" it in the event list, or tap the \"Edit\" button and then tap the red \"delete\" button.",
+            },
+            {   
+                "title": "Home screen badge",
+                "notes": "\"Due items\" application badges are configurable! See \"When Was...\" in the settings app.",
+            },
+            {
+                "title": "To remove help messages",
+                "notes": "To permanently remove these help messages, delete the Help category (deleting a category deletes all events in that category).\n\n1. Tap the \"Categories\" button to go to the category list.\n2. Tap the \"Edit\" button\n3. Tap the red delete button for the Help category",
+            },
+            {
+                "title": "Example: overdue",
+                "notes": "This has a \"next due\" date in the past",
+                "lastDateOffset": -30,
+                "nextDateOffset": -20,
+            },
+            {
+                "title": "Example: due soon",
+                "notes": "This has a \"next due\" date within a week",
+                "lastDateOffset": -24,
+                "nextDateOffset": 6,
+		    	"__comment": "Offset means 'create date offset from Now by this may days'. "
+            },
+            {
+                "title": "Example: due later",
+                "notes": "This has a \"next due\" date more than a week from now",
+                "nextDateOffset": 90,
+            },
+
+        ]
+    }
+]

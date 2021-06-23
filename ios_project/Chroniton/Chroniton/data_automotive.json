@@ -1,0 +1,38 @@
+[
+    {
+        "__comment": "Data for generating screenshots for app store",
+        
+        "category": {
+            "name": "Automotive",
+        },
+        "events": [
+            {
+                "title": "Oil change",
+                "lastDateOffset": -100,
+                "notes": "At dealership, 10W-40 + standard filter",
+            },
+            {
+                "title": "Tune-up was done",
+                "notes": "",
+                "lastDateOffset": -80,
+                "nextDateOffset": 180,
+            },
+            {
+                "title": "Windshield replaced",
+                "notes": "By SafeGlass dealer, on Main St.",
+                "lastDateOffset": -400,
+            },
+        ]
+    },
+    {
+        "category": {
+            "name": "Household",
+        },
+    },
+    {
+        "category": {
+            "name": "Purchases",
+        },
+    },
+
+]

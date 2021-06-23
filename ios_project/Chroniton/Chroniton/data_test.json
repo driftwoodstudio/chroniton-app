@@ -1,0 +1,58 @@
+[
+    {
+        "category": {
+            "name": "Test Records",
+        },
+        "events": [
+            {
+                "title": "Item A",
+                "notes": "",
+            },
+            {
+                "title": "Item B",
+                "notes": "",
+                "lastDateOffset": -2,
+                "nextDateOffset": 2,
+            },
+            {
+                "title": "Item C",
+                "notes": "",
+                "lastDateOffset": 0,
+                "nextDateOffset": 30,
+            },
+        ]
+    },
+    {
+        "category": {
+            "name": "Empty",
+        },
+    },
+    {
+        "category": {
+            "name": "Other Records",
+        },
+        "events": [
+            {
+                "title": "Item 1",
+                "notes": "",
+                "lastDateOffset": 0,
+            },
+            {
+                "title": "Item 2",
+                "notes": "",
+                "nextDateOffset": -3,
+            },
+            {
+                "title": "Item 3",
+                "notes": "",
+                "nextDateOffset": 2,
+            },
+            {
+                "title": "Item 4",
+                "notes": "",
+                "lastDateOffset": 0,
+                "nextDateOffset": 20,
+            },
+        ]
+    },
+]

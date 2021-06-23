@@ -1,0 +1,111 @@
+
+/* Class = "UINavigationItem"; title = "Event"; ObjectID = "0Rd-N2-Tk6"; */
+"0Rd-N2-Tk6.title" = "Evento";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "3YZ-Kz-OQo"; */
+"3YZ-Kz-OQo.title" = "Editar";
+
+/* Class = "UILabel"; text = "Chroniton"; ObjectID = "530-pf-xnO"; */
+"530-pf-xnO.text" = "Chroniton";
+
+/* Class = "UITextField"; text = "1/10/2018"; ObjectID = "5XN-qp-2uh"; */
+"5XN-qp-2uh.text" = "1/10/2018";
+
+/* Class = "UIButton"; normalTitle = "Just my own data, please!"; ObjectID = "6MY-kv-xLk"; */
+"6MY-kv-xLk.normalTitle" = "Solo mis propios datos, por favor.";
+
+/* Class = "UINavigationItem"; title = "Photo"; ObjectID = "74S-Z8-Tq4"; */
+"74S-Z8-Tq4.title" = "Foto";
+
+/* Class = "UILabel"; text = "Next Due On:"; ObjectID = "8d6-FG-F1e"; */
+"8d6-FG-F1e.text" = "Fecha Próxima:";
+
+/* Class = "UILabel"; text = "If you're new to Chroniton, we can add some help about how to use the app"; ObjectID = "9Ya-AA-m1j"; */
+"9Ya-AA-m1j.text" = "Si es nuevo en Chroniton, podemos agregar algunos consejos sobre cómo usar la aplicación";
+
+/* Class = "UIViewController"; title = "Categories"; ObjectID = "AZc-ZI-YPQ"; */
+"AZc-ZI-YPQ.title" = "Categorías";
+
+/* Class = "UILabel"; text = "Note on iCloud Sync:"; ObjectID = "BLY-fK-OhL"; */
+"BLY-fK-OhL.text" = "Nota de iCloud Sync:";
+
+/* Class = "UILabel"; text = "Last On:"; ObjectID = "BQv-T0-t75"; */
+"BQv-T0-t75.text" = "Fecha Última:";
+
+/* Class = "UILabel"; text = "www.driftwood.studio"; ObjectID = "BY0-H5-TUi"; */
+"BY0-H5-TUi.text" = "www.driftwood.studio";
+
+/* Class = "UIButton"; normalTitle = "I'm new to Chroniton, add help items please!"; ObjectID = "Bsf-uT-Dlo"; */
+"Bsf-uT-Dlo.normalTitle" = "Estoy nuevo en Chroniton, agrega consejos por favor!";
+
+/* Class = "UILabel"; text = "Notes:"; ObjectID = "C1S-vt-HAd"; */
+"C1S-vt-HAd.text" = "Notas:";
+
+/* Class = "UILabel"; text = "If you've used Chroniton before on another device, your data will automatically appear here. This can sometimes take a few minutes, so please be patient!"; ObjectID = "Gqx-IP-D2k"; */
+"Gqx-IP-D2k.text" = "Si ha usado Chroniton antes en otro dispositivo, sus datos aparecerán automáticamente aquí. Esto a veces puede llevar unos minutos, así que tenga paciencia.";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "NLs-We-fBz"; */
+"NLs-We-fBz.title" = "Editar";
+
+/* Class = "UILabel"; text = "Title:"; ObjectID = "Nl3-zr-33k"; */
+"Nl3-zr-33k.text" = "Título:";
+
+/* Class = "UIButton"; normalTitle = "Nuke"; ObjectID = "OeA-6h-Psy"; */
+"OeA-6h-Psy.normalTitle" = "Nuke";
+
+/* Class = "UILabel"; text = "Category:"; ObjectID = "R0c-vK-aLx"; */
+"R0c-vK-aLx.text" = "Categoría:";
+
+/* Class = "UINavigationController"; title = "Events"; ObjectID = "RMx-3f-FxP"; */
+"RMx-3f-FxP.title" = "Eventos";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "Usd-T8-xUp"; */
+"Usd-T8-xUp.normalTitle" = "Cerrar";
+
+/* Class = "UITextField"; placeholder = "Category Name"; ObjectID = "V61-9v-abu"; */
+"V61-9v-abu.placeholder" = "Nombre de la categoría";
+
+/* Class = "UITextField"; text = "1/10/2018"; ObjectID = "Vgh-rZ-gEF"; */
+"Vgh-rZ-gEF.text" = "1/10/2018";
+
+/* Class = "UILabel"; text = "Driftwood Studio"; ObjectID = "VyG-qj-r5q"; */
+"VyG-qj-r5q.text" = "Driftwood Studio";
+
+/* Class = "UILabel"; text = "<category name>"; ObjectID = "WEo-oB-2ga"; */
+"WEo-oB-2ga.text" = "<Categoría>";
+
+/* Class = "UILabel"; text = "39 days"; ObjectID = "bqr-5Z-eAd"; */
+"bqr-5Z-eAd.text" = "39 days";
+
+/* Class = "UILabel"; text = "Category Name: "; ObjectID = "eO5-GK-ZT2"; */
+"eO5-GK-ZT2.text" = "Categoría: ";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "k84-5Y-a47"; */
+"k84-5Y-a47.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "khM-RW-leo"; */
+"khM-RW-leo.normalTitle" = "Cancelar";
+
+/* Class = "UIButton"; normalTitle = "Log"; ObjectID = "mzv-5S-nLc"; */
+"mzv-5S-nLc.normalTitle" = "Log";
+
+/* Class = "UILabel"; text = "-- cell subtitle label --"; ObjectID = "nq7-O3-IxQ"; */
+"nq7-O3-IxQ.text" = "-- cell subtitle label --";
+
+/* Class = "UIButton"; normalTitle = "Reset Data"; ObjectID = "p6g-0q-L8a"; */
+"p6g-0q-L8a.normalTitle" = "Reset Data";
+
+/* Class = "UILabel"; text = "21 days ago"; ObjectID = "rVI-Bq-gJi"; */
+"rVI-Bq-gJi.text" = "21 days ago";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "yEH-71-ySd"; */
+"yEH-71-ySd.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "zSg-k9-mmJ"; */
+"zSg-k9-mmJ.normalTitle" = "Eliminar";
+
+/* Class = "UILabel"; text = "-- cell title label --"; ObjectID = "zoA-Rr-Gau"; */
+"zoA-Rr-Gau.text" = "-- cell title label --";
+
+/* Class = "UILabel"; text = "No Image"; ObjectID = "zwF-g5-CEd"; */
+"zwF-g5-CEd.text" = "Sin Foto";
